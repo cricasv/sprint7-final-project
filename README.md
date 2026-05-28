@@ -153,8 +153,3 @@ Abrir el archivo `.ipynb` y ejecutar todas las celdas.
 - Se detectaron inconsistencias como sentinels, fechas futuras y valores inválidos.
 - Los outliers encontrados aportan valor para identificar usuarios de alto consumo.
 
----
-
-# Autor
-
-Cristian Solano
